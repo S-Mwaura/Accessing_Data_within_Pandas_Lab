@@ -36,7 +36,7 @@ Use the correct method to display the **first 7 rows** of the dataset.
 # Your code here
 ```
 
-Display the **last 3 rows** of the dataset.
+Display the **last 7 rows** of the dataset.
 
 
 ```python
